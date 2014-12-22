@@ -35,9 +35,17 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-A plaine declaration that our Brownists be full Donatists by comparing them together from point to p
+
+1. TO THE RIGHT HOnorable, Sir William Cecill, Knight of the Garter, Baron of Burghley, Lord high Treaſurer of England, and Chauncellor of the Vniuerſitie of Cambridge: Grace and peace.
+
+1. To the Reader.
+
 #####Body#####
-A plaine declaration that our Brownists be full Donatists by comparing them together from point to p
+
+1. That the Browniſts are full Donatiſts.
+
+1. An anſwere to Maſter Greenewood, touching read prayer.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
